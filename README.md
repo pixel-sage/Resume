@@ -1,2 +1,2 @@
 # Resume
-Contains resume of Nishit Jain
+Contains resume
